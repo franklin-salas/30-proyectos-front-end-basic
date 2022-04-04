@@ -1,4 +1,4 @@
-*{
+add*{
     box-sizing: border-box;
 }
 body {
@@ -82,16 +82,37 @@ text-align: left;
     font-weight: 600;
 }
 
-@media (min-width: 576px) {
-    body {
-      background-color: red;
-    }
-  }
 
-  @media (min-width: 768px) {
+
+  @media (max-width: 992px) {
     body {
         background-color: blue;
       }
+      .cards{
+        position: relative;
+        width: 992px;
+        height: 450px;
+        /* background-color: aliceblue; */
+    }
+
+    .card{
+        
+        width: 300px;
+        height: 200px;
+     
+    }
+
+    .card--left,.card--right {
+        top: 120px;
+    }
+    .card--top,.card--bottom{
+        left: 350px;
+    }
+    .card__icon{
+        max-width: 40%;
+        right: 1em;
+        bottom: 1em;
+    }
   }
   
 
