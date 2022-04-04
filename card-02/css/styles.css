@@ -82,16 +82,53 @@ text-align: left;
     font-weight: 600;
 }
 
-/* @media (min-width: 576px) {
-    body {
-      background-color: red;
-    }
-  }
 
-  @media (min-width: 768px) {
+
+  @media (max-width: 992px) {
     body {
-        background-color: blue;
+        /* background-color: blue; */
       }
-  } */
+
+      .main-title{
+        display: block;
+        font-size: 2rem;
+    }
+    .subtitle{
+        /* width: 30%; */
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .cards{
+        position: relative;
+        width: 950px;
+        height: 450px;
+        margin: 5em auto;
+    }
+    .card{
+        width: 300px;
+        height: 200px;
+     
+    }
+   
+    .card__icon{
+        position: absolute;
+        right: 1em;
+        bottom: 1em;
+    }
+    
+    .card--left,.card--right {
+        top: 150px;
+    }
+    .card--top,.card--bottom{
+        left: 325px;
+    }
+    .card--top{
+        top: 0px; 
+    }
+    .card--bottom{
+        bottom: 0px;
+    }
+  
+  }
   
 
