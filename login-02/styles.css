@@ -23,13 +23,14 @@ body{
     box-shadow: -5px 5px 10px #222 ;
 }
 .login-container{
-    width: 50%;
+    width: 500px;
     margin: 0 auto;
     padding-left: 40px;
     padding-right: 40px;
 }
 .login-container > h2 {
     text-align: center;
+    margin: 1.5rem 0;
     font-size: 2.5rem;
 
 }
