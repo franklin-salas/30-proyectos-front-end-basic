@@ -27,10 +27,11 @@ body{
     margin: 0 auto;
     padding-left: 40px;
     padding-right: 40px;
+    padding-bottom: 1rem;
 }
 .login-container > h2 {
     text-align: center;
-    margin: 1.5rem 0;
+    margin: 1rem 0;
     font-size: 2.5rem;
 
 }
@@ -92,6 +93,7 @@ body{
     flex-direction: column;
     gap: 5px;
     text-align: center;
+
   
 }
 .btn.btn-login {
