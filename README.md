@@ -17,7 +17,7 @@
 | 12  | diseño 02 | [Demo](https://ecommerce-tm.netlify.app/)
 | 13  | carrito 0 | [Demo](https://verdant-gecko-f6f769.netlify.app/)
 | 14  | calculadora | [Demo](https://franklin-salas.github.io/calculadora-js/)
-| 15  | calculadora | [Demo](https://franklin-salas.github.io/calculadora-js/)
+| 15  | tema Dark | [Demo](https://franklin-salas.github.io/Dark-Theme-js/)
 
 
 
