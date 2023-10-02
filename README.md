@@ -13,11 +13,17 @@
 | 08  | login 02 | [Demo](https://franklin-salas.github.io/30-proyectos-front-end-basic/login-02/)
 | 09  | tabla | [Demo](https://franklin-salas.github.io/30-proyectos-front-end-basic/tabla/)
 | 10  | menu 01 | [Demo](https://franklin-salas.github.io/30-proyectos-front-end-basic/menu-responsivo/)
-| 11  | diseño 01 | [Demo](https://proyecto-meeti.netlify.app/)
-| 12  | diseño 02 | [Demo](https://ecommerce-tm.netlify.app/)
+| 11  | pagina 1 | [Demo](https://proyecto-meeti.netlify.app/)
+| 12  | pagina 2 | [Demo](https://ecommerce-tm.netlify.app/)
 | 13  | carrito 0 | [Demo](https://verdant-gecko-f6f769.netlify.app/)
 | 14  | calculadora | [Demo](https://franklin-salas.github.io/calculadora-js/)
 | 15  | tema Dark | [Demo](https://franklin-salas.github.io/Dark-Theme-js/)
+| 16  | card-pokemon | [Demo](https://franklin-salas.github.io/card-pokemon/)
+| 17  | imagenes-apiladas | [Demo](https://franklin-salas.github.io/imagenes-apiladas/)
+| 18  | input-busqueda | [Demo](https://franklin-salas.github.io/input-busqueda/)
+| 19  | kfc-web landing page | [Demo](https://franklin-salas.github.io/kfc-web/)
+| 20  | menu basico | [Demo](https://franklin-salas.github.io/menu/)
+| 21  | modal basico | [Demo](https://franklin-salas.github.io/modal/)
 
 
 
